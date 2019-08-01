@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 
 import javax.sql.DataSource;
 
-public class testjdbcDatasource implements DataSource {
+public class testjdbcDatasource implements DataSource { 
 	private String url;
 	private String user;
 	private String pwd;
